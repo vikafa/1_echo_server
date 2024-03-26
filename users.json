@@ -1,0 +1,14 @@
+{
+    "user1": {
+        "password": "ec695a8b0ebc28ceb4e3f71559793a2d1fdf316c09ef40ad7b1524606ade4bad095e73eb3811d252d9a00221a4fdf365ec35f4c9b7e167eff8f87f07d91e60e2"
+    },
+    "user2": {
+        "password": "ec695a8b0ebc28ceb4e3f71559793a2d1fdf316c09ef40ad7b1524606ade4bad095e73eb3811d252d9a00221a4fdf365ec35f4c9b7e167eff8f87f07d91e60e2"
+    },
+    "vika": {
+        "password": "10e01e43fc017a1ebd3d578b60fadb84afff56b8bf84225b530f6b16180a40217f2ffc7244182fb33491263d8c531d99f6963cacc6fe4abf25ded84a8725f42e"
+    },
+    "anton": {
+        "password": "fad500cb418f5a95bf135945651b7358a9c13c62c35ad9ee13aac92a8369c5592ad968a3935abf848ab10369e107bf971be076c09dec71f40d039265b249de1c"
+    }
+}
