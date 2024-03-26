@@ -1,6 +1,6 @@
 import socket
 
-port=9090
+port=int(input("port:"))
 sock = socket.socket()
 sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 sock.bind(('', port))
